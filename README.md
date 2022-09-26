@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mauro Rodrigues</h1>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/maurodevelF"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="maurodevelF" /></a></p><br><br>
-<h3 align="center">A passionate Dart/Flutter developer from Germany</h3>
+<h3 align="center">A passionate Dart/Flutter developer from Brazilian (living in Germany)</h3>
 <img align="right" alt="Code" width="200" src="http://gifimgs.com/animations/anime/dragon-ball-z/Vegeta/vegeta_21.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maurodev16&label=Profile%20views&color=0e75b6&style=flat" alt="maurodev16" /> </p>
